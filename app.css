@@ -1,0 +1,45 @@
+   body {
+      font-family: Arial, sans-serif;
+      margin-left: 19%;
+      padding: 20px;
+      text-align: center;
+      width: 60%;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 18px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin: 0;
+   }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 5px;
+    }
+
+    .section ul {
+      padding-left: 20px;
+    }
+
+    .section ul li {
+      list-style-type: none;
+      margin-bottom: 5px;
+    }
+
+    hr {
+        width: 40%;
+    }
+
