@@ -68,3 +68,15 @@ hr {
   display: block;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
+.section-grid{
+  display: flex;
+}
+
+.section-grid .col1{
+  width: 100%;
+}
+
+.section-grid .col2{
+  width: 100%;
+}
