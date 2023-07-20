@@ -19,6 +19,15 @@ hr {
   width: 50%;
   margin-left: 0;
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #444;
+}
+
 .container {
   max-width: 800px;
   margin: 20px auto;
@@ -69,14 +78,18 @@ hr {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.section-grid{
+.section-grid {
   display: flex;
 }
 
-.section-grid .col1{
+.section-grid .col1 {
   width: 100%;
 }
 
-.section-grid .col2{
+.section-grid .col2 {
   width: 100%;
+}
+
+.section-grid .col2 .icons {
+  padding-top: 70px;
 }
